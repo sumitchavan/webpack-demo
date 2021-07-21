@@ -1,1 +1,1 @@
-console.log('This is test file for web-pack demo');
+console.log('This is test file for web-pack demo one more time changed');
